@@ -1,0 +1,135 @@
+header{
+	padding: 15px 0;
+	color:white;
+	border-bottom: solid #383 1px;
+	background: black;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+	margin-left: 150px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+	display: inline-block;
+	margin-top: -90px;
+	margin-right: 20px;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-top: 3px;
+	color: white;
+	font-family: helvetica;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+}
+section{
+	height: 290px;
+	padding: 15px 0;
+	color:white;
+	border-bottom: solid #383 1px;
+	background: gray;
+}
+.imagenes{
+	width: 190px;
+	height: 190px;
+	display: inline-block;
+}
+.imag{
+	display: inline-block;
+	margin-left: 60px;
+	margin-right: 20px;
+	float: right;
+}
+h1{
+	font-family: helvetica;
+	margin-left: 155px;
+}
+p{
+	font-family: helvetica;
+	margin-left: 60px;
+	margin-top: 2px;
+}
+.peque{
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	margin-left: 40px;
+}
+.little{
+	display: inline-block;
+	margin-top: 50px;
+	float: left;
+}
+.caja1{
+	margin-left: 100px;
+
+}
+.te{
+	color: blue;
+	font-size: 5.6px;
+	font-family: helvetica;
+	margin-left: 60px;
+	margin-bottom: 20px;
+}
+.caja2{
+	margin-left: 99px;
+	margin-top: -50px;
+	float: left;
+}
+.subs{
+	color: black;
+	text-align: right;
+	margin-top: 300px;
+	margin-right: 250px;
+}
+.icons{
+	margin-left: 46px;
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	margin-right: 0px;
+}
+.ic{
+	color: blue;
+	margin-left: 25px;
+	display: inline-block;
+}
+hr{
+	width: 400px;
+	margin-bottom: 3px;
+}
+.apps{
+	margin-top: -260px;
+}
+.blue{
+	color: blue;
+	margin-top: 20px;
+	width: 200px;
+	display: inline-block;
+}
+.pie{
+	margin-top: 30px;
+	font-size: 12px;
+	color: white;
+	float: right;
+}
+footer{
+	background: black;
+	color: white;
+    height: 100px;
+    float: right;
+}
